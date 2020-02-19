@@ -3,7 +3,7 @@ function createNavBar(){
     
     let logo = document.createElement("img")
     logo.className = "logo"
-    logo.src = "../images/logo5.png"
+    logo.src = "logo5.png"
     logo.alt = "logo"
     
     let nav = document.createElement("nav")
